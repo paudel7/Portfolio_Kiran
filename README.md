@@ -8,8 +8,13 @@
 * c  <br>
 
 **Demo Images** <br>
-<img align="centre" width="485" height="275" src="https://github.com/paudel7/Portfolio_Kiran/blob/main/assets/salesVarMonth.png">
-<img align="right" width="485" height="275" src="https://github.com/paudel7/Portfolio_Kiran/blob/main/assets/regionalAvgProfitbyCust.png"> <br>
+<p align="center">
+  <img src="./assets/regionalAvgProfitbyCust.png" alt="Project Banner" width="600">
+ <img src="./assets/salesVarMonth.png" alt="Project Banner" width="600">
+</p>
+
+<!-- <img align="centre" width="485" height="275" src="https://github.com/paudel7/Portfolio_Kiran/blob/main/assets/salesVarMonth.png">
+<img align="right" width="485" height="275" src="https://github.com/paudel7/Portfolio_Kiran/blob/main/assets/regionalAvgProfitbyCust.png"> <br>-->
 
 <!--NOTE: <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> -->
 
