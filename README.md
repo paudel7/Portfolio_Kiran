@@ -9,12 +9,9 @@
 
 **Demo Images** <br>
 <p align="center">
-  <img src="./assets/regionalAvgProfitbyCust.png" alt="Project Banner" width="600">
- <img src="./assets/salesVarMonth.png" alt="Project Banner" width="600">
+  <img src="./assets/regionalAvgProfitbyCust.png" alt="Project Banner" width="450">
+ <img src="./assets/salesVarMonth.png" alt="Project Banner" width="450">
 </p>
-
-<!-- <img align="centre" width="485" height="275" src="https://github.com/paudel7/Portfolio_Kiran/blob/main/assets/salesVarMonth.png">
-<img align="right" width="485" height="275" src="https://github.com/paudel7/Portfolio_Kiran/blob/main/assets/regionalAvgProfitbyCust.png"> <br>-->
 
 <!--NOTE: <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> -->
 
@@ -31,11 +28,9 @@
 * c  <br>
 
 **Demo Images** <br>
-<img align="centre" width="500" height="275" src="https://github.com/paudel7/Portfolio_Kiran/blob/main/assets1/revStateStore.jpg">
-<img align="right" width="400" height="275" src="https://github.com/paudel7/Portfolio_Kiran/blob/main/assets1/stateRevbyMonth.jpg"> <br>
-
-<!--NOTE: <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> -->
-
+<img src="https://github.com/paudel7/Portfolio_Kiran/blob/main/assets1/revStateStore.jpg" alt="Project Banner" width="450">
+<img src="https://github.com/paudel7/Portfolio_Kiran/blob/main/assets1/stateRevbyMonth.jpg" alt="Project Banner" width="450">
+<br>
 
   **Demo Video** 
 
@@ -49,11 +44,8 @@
 * c  <br>
 
 **Demo Images** <br>
-<img align="centre" width="485" height="275" src="https://github.com/paudel7/AWS-Quicksight-Analytics/blob/main/assets/vizProcess.jpg">
-<img align="right" width="485" height="275" src="https://github.com/paudel7/AWS-Quicksight-Analytics/blob/main/assets/dash.jpg"> <br>
-
-<!--NOTE: <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> -->
-
+<img src="https://github.com/paudel7/AWS-Quicksight-Analytics/blob/main/assets/vizProcess.jpg" alt="Project Banner" width="450">
+<img src="https://github.com/paudel7/AWS-Quicksight-Analytics/blob/main/assets/dash.jpg" alt="Project Banner" width="450">
 
   **Demo Video** 
 
@@ -67,12 +59,8 @@
 * c  <br>
 
 **Demo Images** <br>
-<img align="centre" width="350" height="250" src="https://github.com/paudel7/SQL-Operations_Painting/blob/main/assets/process.png">
-<img align="right" width="600" height="450" src="https://github.com/paudel7/SQL-Operations_Painting/blob/main/assets/sampleQueryOutput.jpg"> <p><br><br><br>
-
-<!--NOTE: <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> -->
-
-
+<img src="https://github.com/paudel7/SQL-Operations_Painting/blob/main/assets/process.png" alt="Project Banner" width="450">
+<img src="https://github.com/paudel7/SQL-Operations_Painting/blob/main/assets/sampleQueryOutput.jpg" alt="Project Banner" width="450">
 
 
   **Demo Video** 
@@ -87,10 +75,8 @@
 * c  <br>
 
 **Demo Images** <br>
-<img align="centre" width="500" height="350" src="https://github.com/paudel7/Python-Streamlit-Webapp/blob/main/default_image/Homepg.jpg">
-<img align="right" width="485" height="350" src="https://github.com/paudel7/Python-Streamlit-Webapp/blob/main/default_image/projectpg.jpg"> <br>
-
-<!--NOTE: <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> -->
+<img src="https://github.com/paudel7/Python-Streamlit-Webapp/blob/main/default_image/Homepg.jpg" alt="Project Banner" width="450">
+<img src="https://github.com/paudel7/Python-Streamlit-Webapp/blob/main/default_image/projectpg.jpg" alt="Project Banner" width="450">
 
 
   **Demo Video** 
