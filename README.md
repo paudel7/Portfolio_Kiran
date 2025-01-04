@@ -26,7 +26,7 @@
 * c  <br>
 
 **Demo Images** <br>
-<img align="centre" width="575" height="275" src="https://github.com/paudel7/Portfolio_Kiran/blob/main/assets1/revStateStore.jpg">
+<img align="centre" width="500" height="275" src="https://github.com/paudel7/Portfolio_Kiran/blob/main/assets1/revStateStore.jpg">
 <img align="right" width="400" height="275" src="https://github.com/paudel7/Portfolio_Kiran/blob/main/assets1/stateRevbyMonth.jpg"> <br>
 
 <!--NOTE: <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"> -->
