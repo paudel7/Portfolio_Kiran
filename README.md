@@ -1,12 +1,14 @@
-# Kiran's Portfolio
+<!-- # Kiran's Portfolio -->
 
-## [Project 1 : Excel Dashboarding](https://github.com/paudel7/Excel-Dash)
+## [Project 1 : Excel Pivot & Dashboard](https://github.com/paudel7/Excel-Dash)
 **Project Overview** :
-The goal of this project is to develop an interactive and informative dashboard to monitor key performance indicators (KPIs) for a sales and profitability analysis across different regions and time periods. This dashboard is designed to provide stakeholders with an easy-to-understand visual summary of critical business metrics such as sales volume, profit, target performance, and customer behavior. By leveraging pivot tables, charts, and visual filters, the dashboard offers insights that can drive data-driven decisions for optimizing sales strategies, improving profitability, and understanding customer dynamics.
+This project developed an interactive dashboard to track and analyze key sales and profitability metrics, leveraging structured pivot tables and dynamic visualizations. Using monthly, quarterly, and regional breakdowns, the dashboard provides insights into sales performance, profit trends, customer engagement, and target achievement. It empowers decision-makers with actionable insights to optimize strategies and improve overall business performance (KPI).
 <br>
-* Data Collection & Cleansing
-* Pivot Table Construction
-* Charts & dashboard Creation  <br>
+* Comprehensive Analysis: Utilized pivot tables to summarize data by months, regions, and quarters, tracking metrics like sales, profit, and customer engagement.
+* Dynamic Visualizations: Created charts, including bar and line graphs, to visualize trends, compare actual vs. target performance, and highlight regional differences.
+* Actionable Insights: Identified performance gaps and seasonal trends to enhance strategic planning and improve target achievement rates.
+
+<br>
 
 <!-- **Demo Images** --> <br>
 <p align="center">
@@ -14,23 +16,26 @@ The goal of this project is to develop an interactive and informative dashboard 
  <img src="./assets/salesVarMonth.png" alt="Project Banner" width="450">
 </p>
   
-  [For further details please visit the documentation](https://sites.google.com/view/excel-sales-data-analysis) | [For viewing actual worksheet please visit onedrive](https://onedrive.live.com/view.aspx?resid=153FB54B16EC9F47%2121236&authkey=!ACUCjOsJdhewOHM)
+  [For further details please visit the documentation](https://sites.google.com/view/excel-sales-data-analysis) | [For viewing actual worksheet please visit OneDrive](https://onedrive.live.com/view.aspx?resid=153FB54B16EC9F47%2121236&authkey=!ACUCjOsJdhewOHM)
 
 
 <!--**Demo Video** -->
 
 ---
-## [Project 2 : SQL-Tableau Dashboarding](https://github.com/paudel7/SQL-Tableau-Viz)
+## [Project 2 : SQL-Tableau Dashboard](https://github.com/paudel7/SQL-Tableau-Viz)
 **Project Overview** :
-The primary goal of this project was to design and implement an end-to-end data visualization solution. This involved leveraging SQL to process and prepare data and Tableau to create interactive and insightful dashboards. The objective was to provide clear and actionable insights into revenue trends and performance metrics across various dimensions, such as time, location, and product categories.
+The primary goal of this project was to provide clear and actionable insights into revenue trends and performance metrics across various dimensions, such as time, location, and product categories.
+This project demonstrated the integration of SQL and Tableau to create an end-to-end data visualization solution that transformed raw sales data into actionable insights. The process involved meticulous data preparation, including normalization and aggregation in SQL, followed by advanced visualizations and an interactive dashboard in Tableau. The solution highlights trends in revenue, identifies top-performing dimensions like states, stores, and product categories, and empowers stakeholders with intuitive, data-driven decision-making tools.
 <br>
-* Data Preparation in SQL
-* Data ETL in Excel & Validation in Tableau
-* Visualization and Dashboard Creation in Tableau  <br>
+* Created an end-to-end data visualization pipeline using SQL for data preparation and Tableau for interactive dashboard development.
+* Provided actionable insights on revenue trends, top-performing locations, and product categories through advanced visualizations like bar charts, maps, and heatmaps.
+* Addressed challenges in data normalization, performance optimization, and dashboard design to ensure a robust and user-friendly solution.  <br>
 
 <!-- **Demo Images** --> <br>
-<img src="./assets1/revStateStore.jpg" alt="Project Banner" width="450">
-<img src="./assets1/stateRevbyMonth.jpg" alt="Project Banner" width="450">
+<p align="center">
+<img src="./assets1/revStateStore.jpg" alt="Project Banner" width="500">
+<img src="./assets1/stateRevbyMonth.jpg" alt="Project Banner" width="400">
+  </p>
 <br>
 
 
@@ -48,11 +53,12 @@ This project involved analyzing Netflix movie and TV show production data (show_
  <br>
 
 <!-- **Demo Images** --> <br>
+<p align="center">
 <img src="./assets2/vizProcess.jpg" alt="Project Banner" width="450">
 <img src="./assets2/dash.jpg" alt="Project Banner" width="450">
-
+</p>
  
-[For further details please visit the documentation](https://sites.google.com/view/aws-quicksight-netflixviz/home?authuser=0&pli=1)) 
+[For further details please visit the documentation](https://sites.google.com/view/aws-quicksight-netflixviz/home?authuser=0&pli=1)
 
 <!--**Demo Video** --> 
 ---
@@ -66,8 +72,10 @@ This project involved leveraging SQL and Python to analyze a rich dataset on pai
  <br>
 
 <!-- **Demo Images** --> <br>
+<p align="center">
 <img src="./assets3/process.png" alt="Project Banner" width="450">
 <img src="./assets3/sampleQueryOutput.jpg" alt="Project Banner" width="450">
+</p>
 
  [For further details please visit the documentation](https://sites.google.com/view/sql-data-dev-reporting)
 
@@ -87,9 +95,10 @@ This Streamlit-based web application is designed to showcase interactive data vi
 <br>
 
 <!-- **Demo Images** --> <br>
+<p align="center">
 <img src="./assets4/Homepg.jpg" alt="Project Banner" width="450">
 <img src="./assets4/projectpg.jpg" alt="Project Banner" width="450">
-
+</p>
 
  <!--**Demo Video** -->
 
